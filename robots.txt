@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zone-shirts-note.hwagok-karaoke-insider.xyz/sitemap.xml
